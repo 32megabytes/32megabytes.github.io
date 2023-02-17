@@ -40631,27 +40631,26 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 767px) {
+  .u-header .u-sheet-1 {
+    min-height: 119px;
+  }
+
   .u-header .u-image-1 {
     width: 414px;
     height: 45px;
-    margin-left: 0;
+    margin-top: 12px;
   }
 
   .u-header .u-menu-1 {
-    margin-right: 42px;
+    margin-top: 11px;
+    margin-right: auto;
+    margin-bottom: 12px;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-image-1 {
     width: 293px;
     height: 32px;
-    margin-left: auto;
-  }
-
-  .u-header .u-menu-1 {
-    margin-top: 20px;
-    margin-right: auto;
-    margin-bottom: 16px;
   }
 }
  .u-footer {
