@@ -1,0 +1,9 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+body { background-color:#000000; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+.textstyle2 { text-align:center; }
+#container_797a0fc1 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1600px; background:none;  }
+#container_797a0fc1_padding { margin: 10px; display: block;  }
