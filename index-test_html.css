@@ -1,0 +1,33 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#gallery_32aabf3 div.galleryimgcontainer { box-sizing: border-box; vertical-align: middle; display: inline-block; width: 33%; height: auto; padding: 10px;  } 
+#gallery_32aabf3 div.galleryimgcontainer img {  width: 100%;  height: auto;  } 
+@media only screen and (max-width:520px) { #gallery_32aabf3 div.galleryimgcontainer { width: 50%; } } 
+@media only screen and (max-width:420px) { #gallery_32aabf3 div.galleryimgcontainer { width: 100%; } } 
+body { background-color:#000000; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#iframe_ea1896a { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; background:none; border: 0px solid #A0A0A0;  }
+.textstyle2 { text-align:center; }
+#container_3a408b00 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1600px; background:none;  }
+#container_3a408b00_padding { margin: 10px; display: block;  }
+#container_5b94d7a6 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:1024px; background-color:#FFFFFF; background-image: url(rc_images/dscf1063.jpg); background-position:center center; background-size:cover; border-top: none; border-left: none; border-right: none; border-bottom: none;  }
+#container_5b94d7a6_padding { margin: 10px; display: block;  }
+#container_700ae342 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:20px; background:none;  }
+#container_700ae342_padding { margin: 10px; display: block;  }
+#gallery_32aabf3 { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:100%;  }
+#container_5acfb01a { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:rgba(255, 0, 128, 0);  }
+#container_5acfb01a_padding { margin: 10px; display: block;  }
+@media only screen and (max-width: 1500px)
+{
+		#container_5b94d7a6 { min-height:1024px;  }
+}
+@media only screen and (max-width: 1024px)
+{
+		#container_5b94d7a6 { min-height:720px;  }
+}
+@media only screen and (max-width: 720px)
+{
+		#container_5b94d7a6 { min-height:400px;  }
+}
